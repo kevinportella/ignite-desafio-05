@@ -15,6 +15,7 @@ In this challenge, a blog application with Prismic CMS was created from scratch 
 This project was developed with the following technologies: 
 
 - [React](https://reactjs.org)
+- [Next.js](https://nextjs.org)
 - [Sass](https://sass-lang.com)
 - [TypeScript](https://www.typescriptlang.org/)
 
