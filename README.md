@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center">
-    <img src='./spacetraveling_post.jpg'>
+    <img src='./spacetraveling_post.png'>
 </h1>
 
 ## About: 
