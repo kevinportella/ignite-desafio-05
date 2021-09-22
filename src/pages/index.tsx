@@ -1,4 +1,4 @@
-import { GetStaticProps } from 'next';
+import { GetStaticProps, NextPage } from 'next';
 import Link from 'next/link';
 import { FiCalendar, FiUser } from 'react-icons/fi';
 import Prismic from '@prismicio/client';

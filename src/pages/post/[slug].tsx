@@ -60,7 +60,7 @@ export default function Post({
   preview,
 }: PostProps): JSX.Element {
   const totalReader = post.data.content.reduce((total, contentItem) => {
-    total += contentItem.heading.split(' ').length;
+    total += contentItem.heading?.split(' ').length || 0;
 
     const words = contentItem.body.map(item => item.text.split(' ').length);
 
